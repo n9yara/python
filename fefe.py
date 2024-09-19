@@ -30,4 +30,4 @@ elif jogada_nay == 'tesoura': # jogada da nay
     else:
         print('empate')
 else:
-    print('jogada invalida')
+    print('jogada invalida')#kkkkkkkkkkk
