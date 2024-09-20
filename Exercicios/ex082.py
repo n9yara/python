@@ -12,5 +12,5 @@ for i, v in enumerate(lista):
     elif v % 2 == 1:
         impar.append(v)
 print(f'A lista completa é {lista}')
-print(f'os pares {pares}')
-print(f'os impar {impar}')
+print(f'A lista do pares é {pares}')
+print(f'A lista do impares é {impar}')
