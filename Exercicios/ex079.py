@@ -1,4 +1,4 @@
-lista = []
+lista = []  
 while True:
     num = (int(input('Digite um valor: ')))
     if num in lista:
