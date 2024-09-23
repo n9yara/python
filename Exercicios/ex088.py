@@ -1,5 +1,7 @@
 from random import randint as rando
 from time import sleep as timer
+
+
 lista = []
 listadois = []
 total = 1
