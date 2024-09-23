@@ -5,5 +5,7 @@ for c in range(1,8):
         lista[0].append(valor)
     elif valor % 2 == 1:
          lista[1].append(valor)
-print(f'Os pares digatos foram {lista.sort[0]}')
-print(f'Os imapares digitados foram {lista.sort[1]}')
+lista[0].sort
+lista[1].sort
+print(f'Os pares digatos foram {lista[0]}')
+print(f'Os imapares digitados foram {lista[1]}')
