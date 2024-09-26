@@ -8,6 +8,7 @@ if dic['cpts'] != 0:
     dic['salario'] = int(input('Salario: '))
     dic['aposentadoria'] = dic['idade'] + ((dic["contratação"] + 35) - 2024)
 
+print('-'*30)
 print(f'Nome: {dic["nome"]}')
 print(f'Idade: {dic["idade"]}')
 print(f'Ctps: {dic["cpts"]}')
