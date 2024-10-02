@@ -16,9 +16,9 @@ print(f'B) A media de idade é {media} anos.')
 print(f'C) As mulheres cadastradas foram: ', end = '')
 for p in grupo2:
     if p['sexo'] == 'F':
-        print(f'{p["nome"]}', end = '')
+        print(f'{p["nome"]} ', end = '')
 print()
 print(f'D) Lista de pessoas que estão acima da media: ', end = '')
 for p in grupo2:
     if p['idade'] >= media:
-        print(f'foi {p["nome"]} com {p["idade"]}', end = '')
+        print(f'foi {p["nome"]} com {p["idade"]} anos ', end = '')
