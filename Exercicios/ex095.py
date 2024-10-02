@@ -7,7 +7,7 @@ while True:
     total = int(input(f'Quantas partidas {jogador["nome"]} jogou?'))
     partidas.clear()
     for c in range(0, total):
-        partidas.append(int(input(f'Quantos gols na partida {c}?')))
+        partidas.append(int(input(f'Quantos gols na partida {c+1}?')))
     jogador['gols'] = partidas[:]
     jogador['total'] = sum(partidas)
     galera.append(jogador.copy())
