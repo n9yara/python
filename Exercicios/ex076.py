@@ -7,7 +7,7 @@ lista = ('Selula', 1000,
          'Bota', 5000,
          'Blusa', 50,
          'Controle', 160,
-         'Mousepa', 250,
+         'Mousepad', 250,
          'Teclado', 1600,)
 for pos in range(0, len(lista)):
     if pos % 2 == 0:
