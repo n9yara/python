@@ -1,7 +1,7 @@
 def escreva(msg):
     tamanho = len(msg)
-    print("-"* tamanho)
+    print("-" * tamanho)
     print(msg)
-    print("-"* tamanho)
+    print("-" * tamanho)
 
 escreva("nayara")
