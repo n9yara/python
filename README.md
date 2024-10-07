@@ -1,1 +1,2 @@
-<img src="https://imgur.com/FgW9i9n.png">
+![](https://raw.githubusercontent.com/n9yara/python/refs/heads/main/cat-cat-typing.gif)
+
