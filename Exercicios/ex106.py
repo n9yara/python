@@ -18,4 +18,4 @@ while True:
         break
     else:
         ayuda(comando)
-    titulo("FIM")
+titulo("FIM")
