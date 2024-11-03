@@ -7,4 +7,4 @@ sleep(3)
 if palpite == secret:
     print('parabens voce acertou')
 else:
-    print(f'Voce errou!, eu pensei no nunero {secret} e não no {palpite}!')
+    print(f'Voce errou!, eu pensei no numero {secret} e não no {palpite}!')
